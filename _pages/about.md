@@ -12,8 +12,11 @@ I am a postdoctoral fellow in the Department of Electrical and Computer Engineer
 
 Research Interests:
 ======
-- Satellite communication networks
+- Satellite communication networks,
 - Coexistence between passive and active systems,
+- Wireless Localization,
+- Reconfigurable Intelligent Surfaces.
+In addition to the aforementioned areas, I am particularly interested in theoretical problems where I can employ tools from convex analysis and optimization theory.
 
 <!--- My primary research focus is on satellite communication networks, coexistence between passive and active systems, wireless localization and reconfigurable intelligent surfaces. In addition to the aforementioned areas, I am particularly interested in theoretical problems where I can employ tools from convex analysis and optimization theory. --->
 
