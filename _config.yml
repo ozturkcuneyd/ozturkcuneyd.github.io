@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Cuneyd Ozturk"
   avatar           : "CUNEYD OZTURK.jpg"
-  bio              : " I am a postdoctoral fellow in the Department of Electrical and Computer Engineering, Northwestern University. "
+  bio              : " "
   location         : "Evanston, IL"
-  employer         :
+  employer         :  "https://sites.northwestern.edu/commnet/people/"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=HqTzAZUAAAAJ&view_op=list_works&sortby=pubdate"
   email            :
   researchgate     :  
