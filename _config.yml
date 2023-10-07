@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Cuneyd Ozturk"
 title_separator          : "-"
 name                     : &name "Cuneyd Ozturk"
-description              : &description "Buraya biseyler yaz aq"
+description              : &description ""
 url                      : https://ozturkcuneyd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ozturkcuneyd/ozturkcuneyd.github.io"
@@ -84,9 +84,9 @@ author:
   avatar           : "CUNEYD OZTURK.jpg"
   bio              : " "
   location         : "Evanston, IL"
-  employer         :  "https://sites.northwestern.edu/commnet/people/"
+  employer         : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=HqTzAZUAAAAJ&view_op=list_works&sortby=pubdate"
-  email            :
+  email            : "cuneyd.ozturk@northwestern.edu"
   researchgate     :  
   uri              :
   bitbucket        :
