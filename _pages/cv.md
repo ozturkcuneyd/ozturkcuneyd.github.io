@@ -12,22 +12,22 @@ redirect_from:
 Current Employment
 ======
 Northwestern University, Evanston, IL
-- Postdoctoral Fellow, Department of Electrical Engineering and Computer Science.
+- Postdoctoral Fellow, Department of Electrical Engineering and Computer Science, 2022-Present.
 
 Education
 ======
 **Bilkent University**, Ankara, Turkey
-- Ph.D in Electrical Engineering, 2022.
+- Ph.D in Electrical Engineering, 2018-2022.
   - CGPA: 4.00/4.00
   - Advisor: Prof. Sinan Gezici
   - Thesis Title: [Estimation Theoretic Analyses of Location Secrecy and RIS-aided Localization Under Hardware Impairments](http://ozturkcuneyd.github.io/files/thesis.pdf)
-- B.S. in Electrical Engineering, 2016.
+- B.S. in Electrical Engineering, 2011-2016.
   -  CGPA: 3.91/4.00
-- Minor in Mathematics, 2016.
+- Minor in Mathematics, 2011-2016.
   -  CGPA: 4.00/4.00
 
 **University of California Los Angeles (UCLA)**, Los Angeles, CA
-- M.S. in Electrical Engineering, 2017. 
+- M.S. in Electrical Engineering, 2016-2017. 
   -  CGPA: 3.82/4.00.
   - Advisor: Prof. Suhas Diggavi.
 
