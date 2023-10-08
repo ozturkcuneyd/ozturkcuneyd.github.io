@@ -14,8 +14,8 @@ Research Interests:
 ======
 - Satellite communication networks,
 - Coexistence between passive and active systems,
-- Wireless Localization,
-- Reconfigurable Intelligent Surfaces.
+- Wireless localization,
+- Reconfigurable intelligent surfaces.
 
 In addition to the aforementioned areas, I am particularly interested in theoretical problems where I can employ tools from convex analysis and optimization theory.
 
