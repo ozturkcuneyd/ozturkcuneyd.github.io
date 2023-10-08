@@ -17,7 +17,7 @@ Northwestern University, Evanston, IL
 Education
 ======
 **Bilkent University**, Ankara, Turkey
-- Ph.D in Electrical Engineering, 2018-2022.
+- Ph.D. in Electrical Engineering, 2018-2022.
   - CGPA: 4.00/4.00
   - Advisor: Prof. Sinan Gezici
   - Thesis Title: [Estimation Theoretic Analyses of Location Secrecy and RIS-aided Localization Under Hardware Impairments](http://ozturkcuneyd.github.io/files/thesis.pdf)
