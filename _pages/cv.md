@@ -16,19 +16,18 @@ Northwestern University, Evanston, IL
 
 Education
 ======
-*Bilkent University*, Ankara, Turkey
+**Bilkent University**, Ankara, Turkey
 - Ph.D in Electrical Engineering,  CGPA: 4.00/4.00, 2022.
   - Advisor: Prof. Sinan Gezici
-  - Thesis Title: [Esimation Theoretic Analyses of Location Secrecy and RIS-aided Localization Under Hardware Impairments] (http://ozturkcuneyd.github.io/files/thesis.pdf)
+  - Thesis Title: [DEstimation Theoretic Analyses of Location Secrecy and RIS-aided Localization Under Hardware Impairments](http://ozturkcuneyd.github.io/files/thesis.pdf)
 - B.S. in Electrical Engineering, CGPA: 3.91/4.00, 2016.
 - Minor in Mathematics, CGPA: 4.00/4.00, 2016
-=======
-University of California Los Angeles (UCLA), Los Angeles, CA
+**University of California Los Angeles (UCLA)**, Los Angeles, CA
 - M.S. in Electrical Engineering, CGPA: 3.82/4.00, 2017.
   - Advisor: Prof. Suhas Diggavi.
 
 
-[Download CV here](http://ozturkcuneyd.github.io/files/cv.pdf)
+[Download CV here.](http://ozturkcuneyd.github.io/files/cv.pdf)
 
 
 <!--- Work experience
@@ -74,4 +73,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams--- >
+* Currently signed in to 43 different slack teams --->
