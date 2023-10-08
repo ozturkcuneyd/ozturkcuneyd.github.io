@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral fellow in the Department of Electrical and Computer Engineering, Northwestern University.
+I am a postdoctoral fellow in the Department of Electrical and Computer Engineering,  Northwestern University.
 
 Research Interests:
 ======
