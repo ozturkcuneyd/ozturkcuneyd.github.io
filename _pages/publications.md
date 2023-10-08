@@ -8,7 +8,7 @@ author_profile: true
 
 Journal Papers
 ======
-- **C. Ozturk**, F. Lind, D. Guo, R. Berry and M. Honig, "Pushing spectrum boundaries: coexistence with passive Sensing," (Working Paper).
+- **C. Ozturk**, F. Lind, D. Guo, R. Berry and M. Honig, "Pushing spectrum boundaries: coexistence with passive sensing," (Working Paper).
 - **C. Ozturk**, D. Guo, R. Berry and M. Honig, "Downlink spectral efficiency of low earth orbit satellite mega-constellations," **IEEE Journal on Selected Areas in Communications**, 2023 (Under Review).
 - **C. Ozturk**, M. F. Keskin, V. Sciancalepore, H. Wymeersch and S. Gezici, “[RIS-aided localization under pixel failures](https://browse.arxiv.org/pdf/2302.04436.pdf),” **IEEE Transactions on Wireless Communications**, 2023 (Under Review).
 - **C. Ozturk**,  M. F. Keskin, H. Wymeersch and S. Gezici, "[RIS-aided near-field localization under phase-dependent amplitude variations](https://ieeexplore.ieee.org/abstract/document/10017173)," in **IEEE Transactions on Wireless Communications**, vol. 22, no. 8, pp. 5550-5566, Aug. 2023.
