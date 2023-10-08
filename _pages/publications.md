@@ -10,7 +10,7 @@ Journal Papers
 ======
 - **C. Ozturk**, F. Lind, D. Guo, R. Berry and M. Honig, "Pushing Spectrum Boundaries: Coexistence with Passive Sensing", (Working Paper),
 - **C. Ozturk**, D. Guo, R. Berry and M. Honig, Downlink Spectral Efficiency of Low Earth Orbit Satellite Mega-Constellations,” **IEEE Journal on Selected Areas in Communications**, 2023 (Under Review).
-- **C. Ozturk**, M. F. Keskin, V. Sciancalepore, H. Wymeersch and S. Gezici, “RIS-aided Localization under Pixel Failures,” **IEEE Transactions on Wireless Communications**, 2023 (Under Review).
+- **C. Ozturk**, M. F. Keskin, V. Sciancalepore, H. Wymeersch and S. Gezici, “[RIS-aided Localization under Pixel Failures](https://browse.arxiv.org/pdf/2302.04436.pdf),” **IEEE Transactions on Wireless Communications**, 2023 (Under Review).
 - **C. Ozturk**,  M. F. Keskin, H. Wymeersch and S. Gezici, "RIS-Aided Near-Field Localization Under Phase-Dependent Amplitude Variations," in **IEEE Transactions on Wireless Communications**, vol. 22, no. 8, pp. 5550-5566, Aug. 2023, doi: 10.1109/TWC.2023.3235306.
 - E.M. Abadi, C. Goken, **C. Ozturk**, and S. Gezici, "Optimal Power Allocation and Optimal Linear Encoding for Parameter Estimation in the Presence of a Smart Eavesdropper," in **IEEE Transactions on Signal Processing**, vol. 70, pp. 4093-4108, 2022, doi: 10.1109/TSP.2022.3198180.
 - **C. Ozturk**, C. Goken and S. Gezici, “Parameter encoding for ECRB minimization in the presence of jamming,” **IEEE Signal Processing Letters**, vol. 29, pp. 419-423, 2022, doi: 10.1109/LSP.2021.3134841.
@@ -22,10 +22,10 @@ Journal Papers
 
 Conference Papers and Workshops
 =====
-- **C. Ozturk**, D. Guo, R. Berry and M. Honig, “Downlink Spectral Efficiency of Low Earth OrbitSatellite Mega-Constellations,” **Information Theory and Applications Workshop (ITA)**, San Diego, CA, USA, Feb 12-17, 2023 (Poster Presentation).
+- **C. Ozturk**, D. Guo, R. Berry and M. Honig, “Downlink Spectral Efficiency of Low Earth OrbitSatellite Mega-Constellations,” **Information Theory and Applications Workshop (ITA)**, San Diego, CA, USA, Feb 12-17, 2023, (Poster Presentation).
 - **C. Ozturk**, M. F. Keskin, H. Wymeersch and S. Gezici, “On the impact of hardware impairments on RIS-aided localization,” **IEEE International Conference on Communications (ICC)**, Seoul, South Korea, May 16-20, 2022.
-- **C. Ozturk**, and S. Gezici, “Anchor placement in TOA based wireless localization networks via convex relaxation,” IEEE International Black Sea Conference on Communications and Networking (BlackSeaCom), May 24-28, 2021.
-- **C. Ozturk** and S. Gezici, “Eavesdropper selection strategies in wireless source localization networks”, **IEEE International Conference on Communications (ICC)**, Dublin, Ireland, 2020
+- **C. Ozturk**, and S. Gezici, “Anchor placement in TOA based wireless localization networks via convex relaxation,” IEEE International Black Sea Conference on Communications and Networking (BlackSeaCom), Bucharest, Romania, May 24-28, 2021.
+- **C. Ozturk** and S. Gezici, “Eavesdropper selection strategies in wireless source localization networks”, **IEEE International Conference on Communications (ICC)**, Dublin, Ireland, June 7-11, 2020.
 
 
 
