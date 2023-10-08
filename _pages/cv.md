@@ -9,16 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
-
-[Download CV here](http://ozturkcuneyd.github.io/files/cv.pdf)
+Current Employment
+======
+Northwestern University, Evanston, IL
+- Postdoctoral Fellow, Department of Electrical Engineering and Computer Science
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+*Bilkent University*, Ankara, Turkey
+- Ph.D in Electrical Engineering,  CGPA: 4.00/4.00, 2022.
+  - Advisor: Prof. Sinan Gezici
+  - Thesis Title: [Esimation Theoretic Analyses of Location Secrecy and RIS-aided Localization Under Hardware Impairments] (http://ozturkcuneyd.github.io/files/thesis.pdf)
+- B.S. in Electrical Engineering, CGPA: 3.91/4.00, 2016.
+- Minor in Mathematics, CGPA: 4.00/4.00, 2016
+=======
+University of California Los Angeles (UCLA), Los Angeles, CA
+- M.S. in Electrical Engineering, CGPA: 3.82/4.00, 2017.
+  - Advisor: Prof. Suhas Diggavi.
 
-Work experience
+
+[Download CV here](http://ozturkcuneyd.github.io/files/cv.pdf)
+
+
+<!--- Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -30,6 +43,8 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
+
+
 Skills
 ======
 * Skill 1
@@ -59,4 +74,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams--- >
