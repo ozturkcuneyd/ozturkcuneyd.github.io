@@ -22,7 +22,7 @@ Journal Papers
 
 Conference Papers and Workshops
 =====
-- **C. Ozturk**, D. Guo, R. Berry and M. Honig, “Downlink Spectral Efficiency of Low Earth OrbitSatellite Mega-Constellations,” **Information Theory and Applications Workshop (ITA)**, San Diego, CA, USA, Feb 12-17, 2023, (Poster Presentation).
+- **C. Ozturk**, D. Guo, R. Berry and M. Honig, “Downlink spectral efficiency of low earth orbit satellite mega-constellations,” **Information Theory and Applications Workshop (ITA)**, San Diego, CA, USA, Feb 12-17, 2023, (Poster Presentation).
 - **C. Ozturk**, M. F. Keskin, H. Wymeersch and S. Gezici, “[On the impact of hardware impairments on RIS-aided localization](https://ieeexplore.ieee.org/abstract/document/9838889),” **IEEE International Conference on Communications (ICC)**, Seoul, South Korea, May 16-20, 2022.
 - **C. Ozturk**, and S. Gezici, “[Anchor placement in TOA based wireless localization networks via convex relaxation](https://ieeexplore.ieee.org/abstract/document/9527822),” IEEE International Black Sea Conference on Communications and Networking (BlackSeaCom), Bucharest, Romania, May 24-28, 2021.
 - **C. Ozturk** and S. Gezici, “[Eavesdropper selection strategies in wireless source localization networks](https://ieeexplore.ieee.org/abstract/document/9148683)”, **IEEE International Conference on Communications (ICC)**, Dublin, Ireland, June 7-11, 2020.

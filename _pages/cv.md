@@ -12,7 +12,7 @@ redirect_from:
 Current Employment
 ======
 Northwestern University, Evanston, IL
-- Postdoctoral Fellow, Department of Electrical Engineering and Computer Science, [Commnet Laboratory](https://sites.northwestern.edu/commnet/people/), 2022-Present.
+- Postdoctoral Fellow, [Commnet Laboratory](https://sites.northwestern.edu/commnet/people/), 2022-Present.
 
 Education
 ======
